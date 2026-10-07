@@ -1,0 +1,16 @@
+{
+  "name": "clase-practica-08",
+  "version": "1.0.0",
+  "description": "Clase práctica 08",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
