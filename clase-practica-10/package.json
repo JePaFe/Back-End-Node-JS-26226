@@ -1,0 +1,16 @@
+{
+  "name": "clase-practica-10",
+  "version": "1.0.0",
+  "description": "Clase práctica 10",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Jean Paul Ferreira",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
